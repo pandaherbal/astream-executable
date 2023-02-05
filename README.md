@@ -1,6 +1,6 @@
 # astream-executable
 
-> Note: i'm not the creator of this code, original source written down below .
+> Note: i'm not the original creator of this code, original source written down below .
 
 ***
 
