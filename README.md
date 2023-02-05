@@ -14,3 +14,6 @@
 - nonton anime tanpa ke website website aneh
 - nonton anime tampa iklan
 - semua anime subtitle bahasa inggris
+
+* original post : https://fb.watch/iu-B-nrCQ9/
+* original source code : https://astream.pages.dev/astream-readmefirst.py
