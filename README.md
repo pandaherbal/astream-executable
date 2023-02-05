@@ -1,5 +1,7 @@
 # astream-executable
 
+> Note: i'm not the creator of this code, original source written down below .
+
 ***
 
 # Features // fitur :
